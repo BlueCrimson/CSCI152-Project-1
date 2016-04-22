@@ -1,0 +1,1 @@
+Global documentation is in main.java, read that first before testing and reading through the code.
